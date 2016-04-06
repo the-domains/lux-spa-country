@@ -1,0 +1,28 @@
+name: Lux Spa Country
+favicon: null
+layout_spectrum: 0.5680130361579359
+typography_spectrum: 0.33922103489749134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.25933503825217485
+  lightness: 0.6891840980388224
+  saturation: 0.9591036338824779
+  rhythmicContrast: 0.603693762794137
+purpose: []
